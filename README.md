@@ -22,4 +22,4 @@ TODO:
 
 Save the printer HEX output to a .txt file and a PNG image on a MicroSD card
 
-Greets to all the members of Game Boy Camera CLub! :D
+Greets to all the members of the Discord group, Game Boy Camera Club! :D
