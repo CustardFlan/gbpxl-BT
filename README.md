@@ -1,5 +1,6 @@
 # gbpxl-BT
 Game Boy Printer Emulator, direct print to generic Bluetooth Thermal printers using a ESP32
+
 Modified from https://github.com/xx0x/gbpxl project
 
 The basics:
